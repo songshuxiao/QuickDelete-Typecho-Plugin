@@ -1,7 +1,7 @@
 # QuickDelete-Typecho-Plugin
 Typecho文章快捷删除 + 自定义字段样式
 
-适配Typecho 1.3.0 + PHP8.4
+适配Typecho 1.3.0 + PHP 8.4，其他版本未测试，请在测试环境确认正常使用后再上线使用，注意备份以防不测。
 
 文章管理页面右端增加一个删除按钮
 ![文章管理列表](./images/QuickDelete-confirm.jpg)
